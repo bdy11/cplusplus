@@ -1,0 +1,4 @@
+push_back 和emplace_back 区别主要是构造方式和性能。
+Push_back需要一个已经构造好的对象，而emplace_back可以直接传构造参数。
+push_back调用的是拷贝构造函数或移动构造函数，而emplace_back则是在容器内直接构造。
+push_back比emplace_back要慢，因为多了一次额外的拷贝/移动。
