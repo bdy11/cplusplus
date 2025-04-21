@@ -10,9 +10,9 @@
 
 [extern关键字](extern关键字.md)
 
-[const pointer和pointer to const](const%20pointer和pointer%20to%20const.md)
+[const pointer和pointer to const](./C++八股文/const%20pointer和pointer%20to%20const.mdconst%20pointer和pointer%20to%20const.md)
 
-[static & dynamic linking](static%20&%20dynamic%20linking.md)
+[static & dynamic linking](./C++八股文/static%20&%20dynamic%20linking.mdstatic%20&%20dynamic%20linking.md)
 
 [Atomic原子操作](Atomic原子操作.md)
 
