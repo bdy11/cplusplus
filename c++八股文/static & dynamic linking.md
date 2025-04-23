@@ -4,3 +4,8 @@ static linking & dynamic linking
 
 扩展:
 动态链接的实现方式
+
+静态库(static library)，编译时就被打包进程序，生成的可执行文件包含库的代码。后缀.a(linux) .lib(windows)
+
+动态库(Dynamic library), 程序运行时才加载库文件，不嵌入代码，只保留引用。 后缀.so(linux), .dll(windows)
+
